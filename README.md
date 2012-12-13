@@ -1,4 +1,4 @@
-A simple test case generator for [BSHEEP](www.spoj.pl/problems/BSHEEP) problem on [spoj.pl](http://www.spoj.pl)
+A simple test case generator for [BSHEEP](http://www.spoj.pl/problems/BSHEEP) problem on [spoj.pl](http://www.spoj.pl)
 
 ### HOW TO BUILD
 
