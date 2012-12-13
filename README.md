@@ -1,13 +1,13 @@
-A simple test case generator for BSHEEP problem on spoj.pl
+A simple test case generator for [BSHEEP](www.spoj.pl/problems/BSHEEP) problem on [spoj.pl](http://www.spoj.pl)
 
-HOW TO BUILD
+### HOW TO BUILD
 
 $ gcc -o bsheepgen bsheepgen.c -Wall
 
-USAGE
+### USAGE
 
-# Random testcase generation
+#### Random testcase generation
 $ ./bsheepgen
 
-# "Consistently random" testcase generation
+#### "Consistently random" testcase generation
 $ ./bsheepgen [N]
